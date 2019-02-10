@@ -15,7 +15,7 @@ public class Check  extends Payment{
     
       public void authorized(){
           
-        System.out.println("this is autherization in Credit subclass");
+        System.out.println("this is autherization in Check subclass");
     }
     
 }
