@@ -11,5 +11,6 @@ package team.in;
  */
 public class Payment {
     float amount;
+    Order o=new Order ();
     
 }
