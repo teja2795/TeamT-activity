@@ -13,6 +13,9 @@ public class Check {
     String name;
     String bankID;
     
-     
+      public void authorized(){
+          
+        System.out.println("this is autherization in Credit subclass");
+    }
     
 }

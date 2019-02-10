@@ -15,6 +15,10 @@ public class Credit {
     
     String name, type;
     Date expectedDate;
-            
+    
+    public void authorized(){
+       
+        System.out.println("this is autherization in Credit subclass");
+    }
             
 }
