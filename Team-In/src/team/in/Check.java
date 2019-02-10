@@ -15,7 +15,7 @@ public class Check {
     
       public void authorized(){
           
-        system.out.println("this is autherization in Credit subclass");
+        System.out.println("this is autherization in Credit subclass");
     }
     
 }
