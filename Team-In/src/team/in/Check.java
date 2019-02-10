@@ -14,7 +14,8 @@ public class Check {
     String bankID;
     
       public void authorized(){
-        
+          
+        system.out.println("this is autherization in Credit subclass")
     }
     
 }
