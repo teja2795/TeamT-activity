@@ -31,4 +31,5 @@ public class Order {
         System.out.println("this is calcTotalweight method in Order class");
     }
     Customer c=new Customer();
+    
 }
