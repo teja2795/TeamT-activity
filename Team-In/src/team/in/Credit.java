@@ -15,6 +15,9 @@ public class Credit {
     
     String name, type;
     Date expectedDate;
-            
+    
+    public void authorized(){
+        
+    }
             
 }
