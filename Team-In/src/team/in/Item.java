@@ -12,6 +12,19 @@ package team.in;
 public class Item {
     double weight;
     String description;
+    public void getPriceForQuantity()
+    {
+        System.out.println("this is getPriceForQuantity in Item");
+    }
+    public void getTax()
+    {
+        System.out.println("this is getTax in Item");
+    }
+    public void Instock()
+    {
+        System.out.println("this is Instock in Item");
+        
+    }
     
     
 }
