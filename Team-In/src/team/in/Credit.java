@@ -11,7 +11,7 @@ import java.util.Date;
  *
  * @author 1894438
  */
-public class Credit {
+public class Credit extends Payment {
     
     String name, type;
     Date expectedDate;

@@ -9,7 +9,7 @@ package team.in;
  *
  * @author 1894438
  */
-public class Check {
+public class Check  extends Payment{
     String name;
     String bankID;
     
