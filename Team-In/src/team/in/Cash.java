@@ -9,7 +9,7 @@ package team.in;
  *
  * @author temp
  */
-public class Cash {
+public class Cash extends Payment{
     float cashtendered;
     
 }
